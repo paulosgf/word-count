@@ -14,4 +14,3 @@ word-count
    dependencies.rst
    usage.rst
    credit.rst
-   exercises.rst
